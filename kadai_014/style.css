@@ -1,6 +1,8 @@
 body{
    /* bodyのフォント指定 */
   font-family: "Arial", "Meiryo", sans-serif;
+  size: 20px;
+  text-align: center;
 
 }
 .first{
@@ -19,15 +21,7 @@ body{
   color: rgb(255, 192, 203);
 }
 
-.parent{
-  text-align: center;
-}
-.textb{
+
+#basic > p {
   font-weight: bold;
-
-  
-}
-
-p{
-  font-size: 20px;
 }
